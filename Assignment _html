@@ -275,3 +275,12 @@ Ans.
         <sub>	Defines subscripted text
         <tt>	Defines teletype text
         <u>	    Deprecated. Use styles instead
+                  MODULE: 3 (HTML 5)
+                  What are the new tags added in HTML5? 
+ans-aside,audio,video,canvas,embed,header,footer,nav,and svg
+How to embed audio and video in a webpage?
+ans-An easy way to embed audio on a website is by using a sound hosting site, such as SoundCloud or Mixcloud. All you need to do is upload the file and receive an HTML embed code. Then copy and paste the embed code into the web page's code or WYSIWYG site editor. This works for most CMS platforms and website builders
+ans-Semantic HTML elements are those that clearly describe their meaning in a human- and machine-readable way. Elements such as <header> , <footer> and <article> are all considered semantic because they accurately describe the purpose of the element and the type of content that is inside them.
+ Canvas and SVG tags
+ ans-svg:-SVG is vector based and composed of shapes.
+  canvas:Canvas is raster based and composed of pixel.
